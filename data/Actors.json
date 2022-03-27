@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_9","characterIndex":0,"characterName":"Actor4","classId":1,"equips":[1,0,2,3,0],"faceIndex":0,"faceName":"Actor4 face","traits":[{"code":51,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor3_10","characterIndex":0,"characterName":"Actor5","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Actor5 face","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
